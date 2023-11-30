@@ -1,4 +1,5 @@
 import streamlit as st
+pip install mysql-connector-python
 import mysql.connector
 
 # Database connection (Connect to MySQL )
